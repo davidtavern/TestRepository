@@ -143,14 +143,6 @@
             }
         },
         {
-            "Key": "d50811c7-7349-4575-85fe-749c8f97715e",
-            "Value": {
-                "id": "6a4a3598-10f1-4026-ab7a-e51b42d431ec",
-                "resourcePath": "sprites\\sprWorkDamnit\\sprWorkDamnit.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "d56e6ddd-ba16-4a40-944a-798a6895f563",
             "Value": {
                 "id": "7697c6ad-20eb-41e9-a02f-d74a32895af1",
