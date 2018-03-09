@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "45f3f0f6-3871-476a-a76e-cba55797e836",
+            "Value": {
+                "id": "43f0064a-6c65-4825-84f8-2a109928f90f",
+                "resourcePath": "sprites\\sprTestTile\\sprTestTile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "649150f3-a4d2-46e8-afa5-4dc29d83bebb",
             "Value": {
                 "id": "551a2b54-2cf0-485b-bba7-a895acd83395",
@@ -60,6 +68,14 @@
                 "id": "f973e849-8dbf-4a09-bbf3-decaeae291da",
                 "resourcePath": "views\\6a485ade-c439-4f09-a2c6-a82222067b1a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6d04d347-8796-4ef7-9042-34590a97da07",
+            "Value": {
+                "id": "b9a55023-04d5-4f2d-a939-7a892fe0fa3f",
+                "resourcePath": "sprites\\sprFlytrapTest\\sprFlytrapTest.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -84,6 +100,14 @@
                 "id": "a89582f3-37ea-4642-b8c8-b15a44d81713",
                 "resourcePath": "sprites\\sprTestDJP1\\sprTestDJP1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "879fb459-29a1-4583-aa49-72772d529f36",
+            "Value": {
+                "id": "56810968-7ff6-489e-805f-a381f63922f7",
+                "resourcePath": "objects\\objFlytrapTest\\objFlytrapTest.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -220,6 +244,14 @@
                 "id": "86a9f0a8-1fa2-4631-baa1-dc21aad62b43",
                 "resourcePath": "sprites\\sprTestDT\\sprTestDT.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fdb88dcb-bcfc-42fa-bd7c-01d71bee8999",
+            "Value": {
+                "id": "2ef5beab-3018-40af-8af9-867478fd481e",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
             }
         }
     ],
