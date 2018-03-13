@@ -1,19 +1,10 @@
 {
-    "id": "bd585063-5d02-412e-b933-6d3ab38ac56f",
+    "id": "355f4510-e834-4e14-bf25-f4e86acc8daa",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objFlowerTest",
+    "name": "objFlowerDead",
     "eventList": [
-        {
-            "id": "a8f8d662-5942-4e4e-89b7-73ac689178e3",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "bd585063-5d02-412e-b933-6d3ab38ac56f"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
@@ -31,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "10de1145-6808-493f-bbad-f8b913e9257b",
+    "spriteId": "b1c810df-983f-47e5-bc3f-2f65f589ec3c",
     "visible": true
 }
