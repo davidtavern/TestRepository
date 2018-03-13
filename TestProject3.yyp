@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "65cec220-cfa6-43cb-9b3c-d488b1dffbaa",
+            "Value": {
+                "id": "e5cebab3-4966-404c-a91e-33b1e7a4de9d",
+                "resourcePath": "sprites\\sprButter1\\sprButter1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6a485ade-c439-4f09-a2c6-a82222067b1a",
             "Value": {
                 "id": "f973e849-8dbf-4a09-bbf3-decaeae291da",
@@ -132,6 +140,14 @@
                 "id": "a8b7143d-f6df-4ebb-b52b-f4e336270d3d",
                 "resourcePath": "views\\8b5d6e66-dd3c-4f55-9dab-27b58080687f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8dcdd871-4d64-4303-aa61-1821be303c80",
+            "Value": {
+                "id": "61da4d11-bfb8-4b5e-91d2-4d267761fa77",
+                "resourcePath": "sprites\\sprFlytrapClosed\\sprFlytrapClosed.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -207,6 +223,14 @@
             }
         },
         {
+            "Key": "d416b7c3-db56-4c56-bacb-18b3302b1d60",
+            "Value": {
+                "id": "bed67b5a-1c4f-4ddf-8960-bc19d88e190c",
+                "resourcePath": "sprites\\sprButter2\\sprButter2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d56e6ddd-ba16-4a40-944a-798a6895f563",
             "Value": {
                 "id": "7697c6ad-20eb-41e9-a02f-d74a32895af1",
@@ -276,14 +300,6 @@
                 "id": "86a9f0a8-1fa2-4631-baa1-dc21aad62b43",
                 "resourcePath": "sprites\\sprTestDT\\sprTestDT.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "fdb88dcb-bcfc-42fa-bd7c-01d71bee8999",
-            "Value": {
-                "id": "2ef5beab-3018-40af-8af9-867478fd481e",
-                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
-                "resourceType": "GMTileSet"
             }
         }
     ],
