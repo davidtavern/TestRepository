@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "objFlytrapTest",
     "eventList": [
-        
+        {
+            "id": "55fcabf6-54dd-4f81-b3f8-2e9fa22f7057",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "879fb459-29a1-4583-aa49-72772d529f36"
+        },
+        {
+            "id": "26e8e3bf-63a3-4e70-9e97-c81219ec3d46",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "879fb459-29a1-4583-aa49-72772d529f36"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
