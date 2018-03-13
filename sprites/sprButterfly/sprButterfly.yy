@@ -2,7 +2,7 @@
     "id": "324520dc-5f7a-44cc-a170-dd4a01325cb0",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite6",
+    "name": "sprButterfly",
     "For3D": false,
     "HTile": false,
     "VTile": false,

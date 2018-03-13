@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "objFlowerTest",
     "eventList": [
-        
+        {
+            "id": "a8f8d662-5942-4e4e-89b7-73ac689178e3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "bd585063-5d02-412e-b933-6d3ab38ac56f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
