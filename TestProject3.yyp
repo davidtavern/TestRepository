@@ -277,14 +277,6 @@
                 "resourcePath": "sprites\\sprTestDT\\sprTestDT.yy",
                 "resourceType": "GMSprite"
             }
-        },
-        {
-            "Key": "fdb88dcb-bcfc-42fa-bd7c-01d71bee8999",
-            "Value": {
-                "id": "2ef5beab-3018-40af-8af9-867478fd481e",
-                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
-                "resourceType": "GMTileSet"
-            }
         }
     ],
     "script_order": [
