@@ -55,11 +55,11 @@
             }
         },
         {
-            "Key": "324520dc-5f7a-44cc-a170-dd4a01325cb0",
+            "Key": "355f4510-e834-4e14-bf25-f4e86acc8daa",
             "Value": {
-                "id": "0ccfc3e7-b532-45b5-9638-a0eef31b23f0",
-                "resourcePath": "sprites\\sprButterfly\\sprButterfly.yy",
-                "resourceType": "GMSprite"
+                "id": "0471eb86-0c12-422b-b7d5-34ff8c962dbe",
+                "resourcePath": "objects\\objFlowerDead\\objFlowerDead.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -68,14 +68,6 @@
                 "id": "43f0064a-6c65-4825-84f8-2a109928f90f",
                 "resourcePath": "sprites\\sprTestTile\\sprTestTile.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "4d0875e8-f346-4e1a-b256-17281b51ed28",
-            "Value": {
-                "id": "3bc6fd57-b83e-4573-be72-ffbcab148ba2",
-                "resourcePath": "objects\\objButterfly\\objButterfly.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -148,6 +140,14 @@
                 "id": "dee4863c-b435-43e9-9766-a165f7475383",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b1c810df-983f-47e5-bc3f-2f65f589ec3c",
+            "Value": {
+                "id": "cbd1569c-9d4e-41ee-ac98-f4c62b6841f8",
+                "resourcePath": "sprites\\sprFlowerDead\\sprFlowerDead.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -276,6 +276,14 @@
                 "id": "86a9f0a8-1fa2-4631-baa1-dc21aad62b43",
                 "resourcePath": "sprites\\sprTestDT\\sprTestDT.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fdb88dcb-bcfc-42fa-bd7c-01d71bee8999",
+            "Value": {
+                "id": "2ef5beab-3018-40af-8af9-867478fd481e",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
             }
         }
     ],
