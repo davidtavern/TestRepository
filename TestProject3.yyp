@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0da22fe4-0e06-40cf-b380-adb302475986",
+            "Value": {
+                "id": "1cbf21b3-5ff8-40c8-92a0-35b909dbb3b5",
+                "resourcePath": "objects\\objFlytrapTest2\\objFlytrapTest2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0e52d3ae-fe66-4753-a3dc-32a33ef55aa1",
             "Value": {
                 "id": "02aa7d93-3f7c-4b05-af41-3e78b8df077c",

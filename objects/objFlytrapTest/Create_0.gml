@@ -10,6 +10,12 @@ move_snap(32, 32);
 /// @DnDArgument : "var" "vFlytrap"
 vFlytrap = 2;
 
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 02DB3946
+/// @DnDArgument : "var" "iOpenCounter"
+iOpenCounter = 0;
+
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 3BF8F58A
