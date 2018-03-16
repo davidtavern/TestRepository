@@ -19,6 +19,8 @@ else {
    }
 }
 
+move_snap(32, 32);
+
 iOpenCounter -= 1;
 
 if iOpenCounter <= 20
