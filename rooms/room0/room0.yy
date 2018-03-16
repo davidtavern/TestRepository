@@ -30,11 +30,37 @@
     ],
     "layers": [
         {
+            "__type": "GMRAssetLayer_Model:#YoYoStudio.MVCFormat",
+            "id": "4ea44b1f-d829-4668-a706-ea745a0a76e9",
+            "modelName": "GMRAssetLayer",
+            "mvc": "1.0",
+            "depth": 0,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "layers": [
+                
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "name": "Assets_2",
+            "userdefined_depth": false,
+            "visible": true,
+            "assets": [
+                
+            ]
+        },
+        {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "id": "0a53d310-e270-4ddf-af4c-72c203c22050",
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
-            "depth": 0,
+            "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -85,8 +111,8 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_683D931E",
-                    "x": 416,
-                    "y": 608,
+                    "x": 640,
+                    "y": 384,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
@@ -491,7 +517,7 @@
             "id": "304fe8c5-704a-4c04-b211-a9b12318c579",
             "modelName": "GMRAssetLayer",
             "mvc": "1.0",
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -1116,7 +1142,7 @@
             "id": "b80245e2-a531-4b27-9234-07b837e8b373",
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "depth": 200,
+            "depth": 300,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
