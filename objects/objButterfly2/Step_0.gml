@@ -13,11 +13,32 @@ randomize();
 
 if irandom(9) = 1 motion_set(random_range(45,225), 1 + random(5));
 
-if distance_to_object(objFlowerTest) < 64
+if distance_to_object(objFlowerTest) < 64 && bMove == true
 {
+	if instance_exists(objFlowerTest)
+	{
 	move_towards_point(instance_nearest(x,y,objFlowerTest).x,instance_nearest(x,y,objFlowerTest).y, 4);
+	}
 }
-else if distance_to_object(objFlowerTest) < 5
+if distance_to_object(objFlowerDead) < 64 && bMove == true
 {
-	speed = 0;
+	if instance_exists(objFlowerDead)
+	{
+	move_towards_point(instance_nearest(x,y,objFlowerDead).x,instance_nearest(x,y,objFlowerDead).y, 4);
+	}
 }
+//else if distance_to_object(objFlowerTest) < 5
+//{
+//	if irandom(9) = 1 motion_set(random_range(45,225), 1 + random(5));
+//	iFlowerCounter = 180;
+//	bMove = false;
+//}
+
+//iFlowerCounter -= 1;
+
+//if iFlowerCounter <= 0
+//{
+//	if irandom(9) = 1 motion_set(random_range(45,225), 1 + random(5));
+//}
+
+show_debug_message(iFlowerCounter);
