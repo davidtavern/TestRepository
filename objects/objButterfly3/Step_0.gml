@@ -13,6 +13,10 @@ else if distance_to_point(room_width, room_height) < 5
 
 randomize();
 
+iCountdownTimer -= 1;
+
+if iCountdownTimer <= 0
+{
 if irandom(9) = 1 motion_set(random_range(45,225), 1 + random(5));
 
 if distance_to_object(objFlowerTest) < 64 && bMove == true
@@ -28,6 +32,7 @@ if distance_to_object(objFlowerDead) < 64 && bMove == true
 	{
 	move_towards_point(instance_nearest(x,y,objFlowerDead).x,instance_nearest(x,y,objFlowerDead).y, 4);
 	}
+}
 }
 //else if distance_to_object(objFlowerTest) < 5
 //{
