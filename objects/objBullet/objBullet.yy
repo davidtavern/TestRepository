@@ -5,7 +5,7 @@
     "name": "objBullet",
     "eventList": [
         {
-            "id": "cc5797f3-83d7-4e3a-8deb-3ca8f2790518",
+            "id": "1039e0e9-7419-41e6-95a2-11aafd8c9ac2",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
