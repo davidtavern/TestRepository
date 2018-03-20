@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "a8452ff4-5758-4f82-9d23-ccbaee7229cf",
+            "Value": {
+                "id": "32328e60-cad3-478a-9da5-e478ab06e3fa",
+                "resourcePath": "objects\\objCricket2\\objCricket2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "dee4863c-b435-43e9-9766-a165f7475383",
@@ -452,6 +460,14 @@
                 "id": "df49d888-7f31-4c15-9c99-fb0bb5396065",
                 "resourcePath": "objects\\objScorpion\\objScorpion.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f1acbdb5-cd88-46c1-a597-36d62f9bbd7b",
+            "Value": {
+                "id": "a2906b75-84f9-48b2-ba5f-6afdbe392c2e",
+                "resourcePath": "sprites\\sprCricket2\\sprCricket2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
