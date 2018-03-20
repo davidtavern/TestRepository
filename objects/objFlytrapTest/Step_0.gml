@@ -1,3 +1,5 @@
+if objButterfly2.iCountdownTimer > 0
+{
 if (dragging) {
    with (inst) {
       x = mouse_x + other.mdx;
@@ -17,6 +19,7 @@ else {
          mdy = inst.y - mouse_y;
       }
    }
+}
 }
 
 move_snap(32, 32);

@@ -1,3 +1,3 @@
 bMove = true;
 iFlowerCounter = 180;
-iCountdownTimer = 250;
+iCountdownTimer = 400;

@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "b1691079-755e-413c-ba91-54bc0104f560",
+            "Value": {
+                "id": "09e6ba41-b7e9-4860-9716-d146ba1bf911",
+                "resourcePath": "rooms\\rmEgyptian\\rmEgyptian.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b1c810df-983f-47e5-bc3f-2f65f589ec3c",
             "Value": {
                 "id": "cbd1569c-9d4e-41ee-ac98-f4c62b6841f8",
@@ -284,6 +292,22 @@
                 "id": "7ae036b2-82d7-4e50-9f57-c556c64fbce6",
                 "resourcePath": "sprites\\sprite3\\sprite3.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cb652e7b-49d8-4d09-93d2-d4fff391a16d",
+            "Value": {
+                "id": "991f7973-062b-4c54-8d07-b22e785be447",
+                "resourcePath": "sprites\\sprScorpion\\sprScorpion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cc235d1a-c206-4cea-a905-4ddca1ee1d78",
+            "Value": {
+                "id": "00ac4b65-c923-4ae4-a887-28f9c229a69a",
+                "resourcePath": "objects\\objScorpion\\objScorpion.yy",
+                "resourceType": "GMObject"
             }
         },
         {
