@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "a0160a6b-6142-49fb-b821-4fb07158b9d8",
+            "Value": {
+                "id": "ad742fb7-8077-4eb8-bea6-7b6b76402fb4",
+                "resourcePath": "objects\\objScorpion2\\objScorpion2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "dee4863c-b435-43e9-9766-a165f7475383",
@@ -292,6 +300,14 @@
                 "id": "fff46271-83fd-4b50-aec1-9893c118e164",
                 "resourcePath": "rooms\\roomSand\\roomSand.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "babd9397-fe16-44de-a3e2-046e817ae0ff",
+            "Value": {
+                "id": "efabba1a-cee5-4da1-9931-d3e245894f29",
+                "resourcePath": "sprites\\sprScorpionLeftDown\\sprScorpionLeftDown.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
