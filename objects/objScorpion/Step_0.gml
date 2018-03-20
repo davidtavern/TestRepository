@@ -1,14 +1,16 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 797E8991
-/// @DnDArgument : "code" "if keyboard_check(ord("A")) || keyboard_check(vk_left)$(13_10){$(13_10)	x = x - iSpd;$(13_10)}$(13_10)if keyboard_check(ord("D")) || keyboard_check(vk_right)$(13_10){$(13_10)	x = x + iSpd;$(13_10)}$(13_10)if keyboard_check(ord("S")) || keyboard_check(vk_down)$(13_10){$(13_10)	y = y + iSpd;$(13_10)}$(13_10)if keyboard_check(ord("W")) || keyboard_check(vk_up)$(13_10){$(13_10)	y = y - iSpd;$(13_10)}$(13_10)"
+/// @DnDArgument : "code" "if keyboard_check(ord("A")) || keyboard_check(vk_left)$(13_10){$(13_10)	x = x - iSpd;$(13_10)	image_xscale = 1;$(13_10)}$(13_10)if keyboard_check(ord("D")) || keyboard_check(vk_right)$(13_10){$(13_10)	x = x + iSpd;$(13_10)	image_xscale = -1;$(13_10)}$(13_10)if keyboard_check(ord("S")) || keyboard_check(vk_down)$(13_10){$(13_10)	y = y + iSpd;$(13_10)}$(13_10)if keyboard_check(ord("W")) || keyboard_check(vk_up)$(13_10){$(13_10)	y = y - iSpd;$(13_10)}$(13_10)"
 if keyboard_check(ord("A")) || keyboard_check(vk_left)
 {
 	x = x - iSpd;
+	image_xscale = 1;
 }
 if keyboard_check(ord("D")) || keyboard_check(vk_right)
 {
 	x = x + iSpd;
+	image_xscale = -1;
 }
 if keyboard_check(ord("S")) || keyboard_check(vk_down)
 {
