@@ -55,10 +55,26 @@
             }
         },
         {
+            "Key": "13dfc102-9262-48a9-b545-f366ca07a072",
+            "Value": {
+                "id": "ee223074-7319-41b8-9cf1-77f45f642dcc",
+                "resourcePath": "objects\\objStinger\\objStinger.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "22329c2d-3e3f-4f7c-a474-b1cb70d1f11b",
             "Value": {
                 "id": "a292d935-96cb-4d25-897c-398e42b44b7c",
                 "resourcePath": "sprites\\sprRestart\\sprRestart.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "22a892a6-4f14-469f-9e64-03ea17f6209b",
+            "Value": {
+                "id": "333a7e6d-6e81-4724-83f5-a40c0a5ab665",
+                "resourcePath": "sprites\\sprStinger\\sprStinger.yy",
                 "resourceType": "GMSprite"
             }
         },
