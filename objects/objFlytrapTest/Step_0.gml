@@ -1,3 +1,5 @@
+if objButterfly2.iCountdownTimer > 0
+{
 if (dragging) {
    with (inst) {
       x = mouse_x + other.mdx;
@@ -18,6 +20,9 @@ else {
       }
    }
 }
+}
+
+move_snap(32, 32);
 
 iOpenCounter -= 1;
 

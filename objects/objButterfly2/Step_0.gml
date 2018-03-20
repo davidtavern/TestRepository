@@ -13,6 +13,12 @@ randomize();
 
 iCountdownTimer -= 1;
 
+//draw_text(256,256,string(iCountdownTimer));
+
+show_debug_message(iCountdownTimer);
+
+draw_text_color(128,128,string(iCountdownTimer),c_green,c_green,c_green,c_green,1);
+
 if iCountdownTimer <= 0
 {
 if irandom(9) = 1 motion_set(random_range(45,225), 1 + random(5));
@@ -46,4 +52,4 @@ if distance_to_object(objFlowerDead) < 64 && bMove == true
 //	if irandom(9) = 1 motion_set(random_range(45,225), 1 + random(5));
 //}
 
-show_debug_message(iFlowerCounter);
+//show_debug_message(iFlowerCounter);
