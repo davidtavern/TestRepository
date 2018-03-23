@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "6f3b70fa-8bf2-4a06-8179-5f6998c3425d",
+            "Value": {
+                "id": "b30b8b2b-7d8d-431b-96c0-1aaf0aeec863",
+                "resourcePath": "sprites\\sprTarantula\\sprTarantula.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6fac3e36-07bb-4603-881c-57d5fce18c5f",
             "Value": {
                 "id": "070449e3-3cc8-46dd-a974-5197726b0583",
@@ -279,6 +287,22 @@
             }
         },
         {
+            "Key": "a0160a6b-6142-49fb-b821-4fb07158b9d8",
+            "Value": {
+                "id": "ad742fb7-8077-4eb8-bea6-7b6b76402fb4",
+                "resourcePath": "objects\\objScorpion2\\objScorpion2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a8452ff4-5758-4f82-9d23-ccbaee7229cf",
+            "Value": {
+                "id": "32328e60-cad3-478a-9da5-e478ab06e3fa",
+                "resourcePath": "objects\\objCricket2\\objCricket2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "dee4863c-b435-43e9-9766-a165f7475383",
@@ -332,6 +356,14 @@
                 "id": "fff46271-83fd-4b50-aec1-9893c118e164",
                 "resourcePath": "rooms\\roomSand\\roomSand.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "babd9397-fe16-44de-a3e2-046e817ae0ff",
+            "Value": {
+                "id": "efabba1a-cee5-4da1-9931-d3e245894f29",
+                "resourcePath": "sprites\\sprScorpionLeftDown\\sprScorpionLeftDown.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -431,6 +463,14 @@
             }
         },
         {
+            "Key": "f1acbdb5-cd88-46c1-a597-36d62f9bbd7b",
+            "Value": {
+                "id": "a2906b75-84f9-48b2-ba5f-6afdbe392c2e",
+                "resourcePath": "sprites\\sprCricket2\\sprCricket2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "e963a3bf-8774-434c-90d5-f96c1d6a2c4f",
@@ -476,6 +516,14 @@
                 "id": "86a9f0a8-1fa2-4631-baa1-dc21aad62b43",
                 "resourcePath": "sprites\\sprTestDT\\sprTestDT.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fe842032-bafa-4694-a13b-3ff47a269a35",
+            "Value": {
+                "id": "8b21a097-732c-4064-a75b-79325aa06c1b",
+                "resourcePath": "objects\\objTarantula\\objTarantula.yy",
+                "resourceType": "GMObject"
             }
         }
     ],

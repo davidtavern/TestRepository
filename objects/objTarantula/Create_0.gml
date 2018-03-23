@@ -1,0 +1,1 @@
+iSpiderHp = 10;
