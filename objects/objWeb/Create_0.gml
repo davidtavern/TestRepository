@@ -11,3 +11,7 @@ if instance_exists(objScorpion2)
 image_angle = direction;
 
 speed = 6;
+
+iRotation = 0;
+
+iSize = 0;
