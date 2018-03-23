@@ -35,18 +35,18 @@ if distance_to_object(objScorpion) < 128 || distance_to_object(objScorpion2) < 1
 } else {
     if irandom(9) = 1 motion_set(random_range(0,360), 1 + random(5));
 	
-	if direction > 180 && direction < 360
+	if direction > 0 && direction < 180
 	{
-		instance_change(objCricket2, true);
+		instance_change(objCricket, true);
 	}
 	
 	if direction > -90 && direction < 90
 	{
-		image_xscale = -1;
+		image_xscale = 1;
 	}
 	
 	if direction > 90 && direction < 270
 	{
-		image_xscale = 1;
+		image_xscale = -1;
 	}
 }
