@@ -51,13 +51,11 @@ if(l75E00B34_0)
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 6D6E40A2
-/// @DnDArgument : "code" "if(Cooldown <= 0)$(13_10){$(13_10)	instance_create_layer(x, y, "Instances", objWeb);$(13_10)	Cooldown = 25;$(13_10)}$(13_10)$(13_10)Cooldown += -1;"
-if(Cooldown <= 0)
+/// @DnDArgument : "code" "if(iCooldown <= 0)$(13_10){$(13_10)	instance_create_layer(x, y, "Instances", objWeb);$(13_10)	iCooldown = 25;$(13_10)}$(13_10)$(13_10)iCooldown += -1;"
+if(iCooldown <= 0)
 {
 	instance_create_layer(x, y, "Instances", objWeb);
-	objWeb.image_xscale = 0;
-	objWeb.image_yscale = 0;
-	Cooldown = 25;
+	iCooldown = 25;
 }
 
-Cooldown += -1;
+iCooldown += -1;
