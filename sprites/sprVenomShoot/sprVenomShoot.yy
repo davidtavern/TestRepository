@@ -2,7 +2,7 @@
     "id": "f4781f20-7315-461c-9068-46bcba3555b1",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite15",
+    "name": "sprVenomShoot",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -13,7 +13,6 @@
     "bboxmode": 0,
     "colkind": 1,
     "coltolerance": 0,
-    "edgeFiltering": false,
     "frames": [
         {
             "id": "6eac8054-f3b6-4f25-b793-27e6b6b7a130",
@@ -55,10 +54,8 @@
         }
     ],
     "origin": 9,
-    "originLocked": false,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
-    "premultiplyAlpha": false,
     "sepmasks": false,
     "swatchColours": null,
     "swfPrecision": 2.525,
