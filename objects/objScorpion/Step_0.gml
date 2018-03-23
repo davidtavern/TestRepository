@@ -19,6 +19,23 @@ if keyboard_check(ord("W")) || keyboard_check(vk_up)
 	instance_change(objScorpion, true);
 }
 
+if x <= 0
+{
+	x = x + iSpd;
+}
+if x >= room_width
+{
+	x = x - iSpd;
+}
+if y <= 0
+{
+	y = y + iSpd;
+}
+if y >= room_height
+{
+	y = y - iSpd;
+}
+
 var iBulletCheck;
 iBulletCheck = mouse_check_button(mb_left);
 if (iBulletCheck)
