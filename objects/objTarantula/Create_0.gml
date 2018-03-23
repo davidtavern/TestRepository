@@ -11,4 +11,4 @@ iSpiderHp = 10;
 /// @DnDArgument : "var" "iSpeed"
 iSpeed = 3;
 
-Cooldown = 0;
+iCooldown = 0;
