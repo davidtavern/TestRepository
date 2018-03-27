@@ -83,7 +83,7 @@ if bCaughtNetScorp == true
 		{
 			iWebNearest.image_alpha = 0.35;
 		}
-		iSpd = 4;
+		iSpd = 4;	
 	}
 }
 else if iInvCounterScorp <= 0
