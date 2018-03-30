@@ -11,12 +11,14 @@ if keyboard_check(ord("D")) || keyboard_check(vk_right)
 if keyboard_check(ord("S")) || keyboard_check(vk_down)
 {
 	y = y + iSpd;
-	instance_change(objScorpion2, true);
+	//instance_change(objScorpion2, true);
+	object_set_sprite(objScorpion, sprScorpionLeftDown);
 }
 if keyboard_check(ord("W")) || keyboard_check(vk_up)
 {
 	y = y - iSpd;
-	instance_change(objScorpion, true);
+	//instance_change(objScorpion, true);
+	object_set_sprite(objScorpion, sprScorpionLeftUp);
 }
 
 if x <= 0

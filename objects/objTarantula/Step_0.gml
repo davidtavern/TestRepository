@@ -33,6 +33,7 @@ if bDead == true
 		if iFadeCounter == -1
 		{
 			instance_destroy();
+			audio_play_sound(Laugh, 10, false);
 		}
 	}
 }

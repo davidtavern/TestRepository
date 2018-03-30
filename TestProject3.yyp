@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "34f89693-81ca-42e2-8a56-123508426325",
+            "Value": {
+                "id": "0f99b7eb-b4a6-423c-be87-2053d2a4e2ae",
+                "resourcePath": "sounds\\Laugh\\Laugh.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "355f4510-e834-4e14-bf25-f4e86acc8daa",
             "Value": {
                 "id": "0471eb86-0c12-422b-b7d5-34ff8c962dbe",
@@ -223,6 +231,14 @@
             }
         },
         {
+            "Key": "790d3b75-0634-4637-a099-37aebdd36f1a",
+            "Value": {
+                "id": "4cc47ea6-2716-4070-a700-4282b4317801",
+                "resourcePath": "sounds\\Scream\\Scream.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "797e7bb9-e1ff-4968-9bd1-b961ea6ac87f",
             "Value": {
                 "id": "c0264da0-5663-40e0-967b-35c0f8876edc",
@@ -300,6 +316,14 @@
                 "id": "b8dd52ee-5d63-4a72-8d7b-70d62103d487",
                 "resourcePath": "objects\\objButterfly2\\objButterfly2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "982e44af-ffae-4a45-b4c8-84e855d9e822",
+            "Value": {
+                "id": "b04e5f48-317a-4092-8195-34b2fb54c4c6",
+                "resourcePath": "sounds\\Death2\\Death2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -484,6 +508,14 @@
                 "id": "a2906b75-84f9-48b2-ba5f-6afdbe392c2e",
                 "resourcePath": "sprites\\sprCricket2\\sprCricket2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f1e8ecd0-86b5-4779-bdc5-c1c832e566ac",
+            "Value": {
+                "id": "4ca97d54-a15e-45e9-b4c4-a00d46a2d8cf",
+                "resourcePath": "sounds\\Death\\Death.yy",
+                "resourceType": "GMSound"
             }
         },
         {
