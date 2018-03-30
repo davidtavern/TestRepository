@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "91a4f906-5672-4357-8055-f1cbd3883fcf",
+            "Value": {
+                "id": "609e8407-439c-4d40-ad82-e9464e4f8262",
+                "resourcePath": "sounds\\BulletHit\\BulletHit.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "982e44af-ffae-4a45-b4c8-84e855d9e822",
             "Value": {
                 "id": "b04e5f48-317a-4092-8195-34b2fb54c4c6",
